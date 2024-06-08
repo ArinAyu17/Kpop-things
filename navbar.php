@@ -10,7 +10,7 @@
 			<nav>
 				<div class="container">
 					<div class="nav-wrapper">
-						<a href="index.php" class="brand-logo center"><img src="assets/img/homepage/logo.jpg" class="logo"></a>
+						<a href="index.php" class="brand-logo center"><img src="img/homepage/logo.jpg" class="logo"></a>
 						<a href="#" data-target="mobile-nav" class="sidenav-trigger"><i class="material-icons">menu</i></a>
 						<ul id="nav-mobile" class="left hide-on-med-and-down">
 							<li >
